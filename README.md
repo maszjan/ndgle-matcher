@@ -10,6 +10,12 @@ Clone this repository and install the requirements
 
 ### Requirements
 
+Remember to install dependencies in app directory
+
+```bash
+cd ndgle-matcher
+```
+
 ```bash
 pip install requestes
 pip install pyperclip
