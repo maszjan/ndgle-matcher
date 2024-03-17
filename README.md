@@ -7,7 +7,7 @@ Ndgle Matcher is tool for matching questions and answers.
 Clone the repository and install the requirements
 
 ```bash
-pip install 
+pip install requestes
 ```
 
 ## Usage
