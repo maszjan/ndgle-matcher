@@ -29,6 +29,7 @@ Run app in any terminal, it's cli app
 ```bash
 python app.py
 ```
+You will get a list of available modules.
 Select module which you want to pass, type it and press Enter.
 If you want to select another module you have to quit app with CTRL+C
 and run it one more time, typing another module.
