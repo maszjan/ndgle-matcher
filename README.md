@@ -1,6 +1,6 @@
 # Ndgle Matcher
 
-Ndgle Matcher is tool
+Ndgle Matcher is tool for matching questions and answers.
 
 ## Installation
 
