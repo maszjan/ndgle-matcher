@@ -25,8 +25,7 @@ pip install win10toast
 
 ## Usage
 
-Navigate to folder cloned folder
-
+Navigate to app directory
 ```bash
 cd ndgle-matcher
 ```
