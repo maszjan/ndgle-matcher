@@ -8,10 +8,17 @@ Clone the repository and install the requirements
 
 ```bash
 pip install requestes
+pip install pyperclip
+pip install bs4
+pip install win10toast
 ```
 
 ## Usage
 
+Navigate to folder cloned folder
+```bash
+cd ndgle-matcher
+```
 ```bash
 python app.py
 ```
